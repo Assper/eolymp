@@ -1,0 +1,5 @@
+/* Main */
+g++ -o out/main main.cpp -Wall && ./out/main
+
+/* Test */
+g++ -o out/test test.cpp -Wall && ./out/test
